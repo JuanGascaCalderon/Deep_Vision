@@ -1,22 +1,19 @@
-# Proyectos de Redes Neuronales Convolucionales 🧠
+# Convolutional Neural Networks Projects 🧠
 
-Este repositorio contiene información sobre tres proyectos de redes neuronales convolucionales que abordan diferentes problemas de detección: emociones, tumores y COVID-19 (utilizando transfer learning).😁
+This repository contains information about three convolutional neural network projects addressing different detection problems: emotions, tumors, and COVID-19 (using transfer learning). 😁
 
-## Proyecto 1: Detección de Emociones 😫😓😑😭😛😡🥶
+## Project 1: Emotion Detection 😫😓😑😭😛😡🥶
 
-### Descripción▶️
-Este proyecto se centra en la detección de emociones en imágenes faciales utilizando redes neuronales convolucionales. La red fue entrenada en un conjunto de datos diverso de expresiones faciales adquirido por kaggle: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/  y 
-puede clasificar imágenes en diferentes categorías de emociones, como 'surprise', 'fear', 'angry', 'neutral', 'sad', 'disgust', 'happy'. 🧠
+### Description▶️
+This project focuses on detecting emotions in facial images using convolutional neural networks. The network was trained on a diverse dataset of facial expressions acquired from [Kaggle](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/). It can classify images into different emotion categories such as 'surprise', 'fear', 'angry', 'neutral', 'sad', 'disgust', 'happy'. 🧠
 
-## Proyecto 2: Detección de Tumores  🧠
+## Project 2: Tumor Detection 🧠
 
-### Descripción▶️
-Este proyecto se enfoca en la detección de tumores en imágenes médicas utilizando redes neuronales convolucionales. El modelo fue entrenado en un conjunto de datos de imágenes de escáneres médicos y puede identificar la presencia de tumores en imágenes de rayos X o resonancias magnéticas, 
-el dataset fue adquirido por la plataforma kaggle: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/ 
+### Description▶️
+This project focuses on tumor detection in medical images using convolutional neural networks. The model was trained on a dataset of medical scanner images and can identify the presence of tumors in X-ray or magnetic resonance images. The dataset was acquired from the [Kaggle platform](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/).
 
+## Project 3: COVID-19 Detection with Transfer Learning🧠
 
-## Proyecto 3: Detección de COVID-19 con Transfer Learning🧠
+### Description▶️
+This project utilizes transfer learning to detect COVID-19 cases in chest X-rays. It leverages a pre-trained model on a large medical dataset and fine-tunes it specifically for COVID-19 detection. This allows for accurate detection even with a limited dataset. The limited dataset was obtained from Kaggle: https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset/ 🌐
 
-### Descripción▶️
-Este proyecto utiliza transfer learning para detectar casos de COVID-19 en radiografías de tórax. Se aprovecha de un modelo preentrenado en un gran conjunto de datos médicos y se ajusta específicamente para la detección de COVID-19. Esto permite una detección precisa incluso con un conjunto de datos limitado.
-El conjunto de datos limitado se obtuvo de kaggle: https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset/ 🌐
